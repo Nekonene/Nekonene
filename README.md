@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nekonene
-- 🌱 I’m currently learning more advance web programming
+- 👋 Hi, I’m @Nekonene ( ´･･)ﾉ(._.`)
+- 🌱 I’m currently learning more advance web programming (づ￣ 3￣)づ
 
 
 <!---
